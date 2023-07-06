@@ -1,26 +1,26 @@
 {
-  "store_id": 51426,
-  "name": "onepedras",
   "domain": "onepedras.netlify.app",
-  "short_name": "onepedras",
-  "description": "onepedras",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "lux",
+    "custom": "clean-white"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/onepedras",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "onepedras",
+  "short_name": "onepedras",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "font_family": "Ubuntu",
+  "favicon": "/img/uploads/favicon.png",
+  "icons_font": "bootstrap-icons",
   "country_code": "BR",
-  "repository": "ecomplus-stores/onepedras",
-  "icons_font": "_",
-  "font_family": "_"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 51426,
+  "description": "onepedras",
+  "large_icon": "/img/large-icon.png"
 }
