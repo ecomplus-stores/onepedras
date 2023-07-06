@@ -16,7 +16,7 @@
   "mini_logo": "",
   "font_family": "Ubuntu",
   "favicon": "/img/uploads/favicon.png",
-  "icons_font": "bootstrap-icons",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#393e46",
   "icon": "/img/icon.png",
