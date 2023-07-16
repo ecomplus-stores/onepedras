@@ -29,6 +29,17 @@
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:",
       "show_loading": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "banners-grid"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     }
   ]
 }
