@@ -34,12 +34,24 @@
       "show_loading": true
     },
     {
-      "type": "banners-grid"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/passion.webp"
+        }
+      ]
     },
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/rect8589.png"
+        }
+      ]
     }
   ]
 }
