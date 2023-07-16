@@ -17,6 +17,9 @@
       "title": "Produtos relacionados"
     },
     {
+      "type": "page-title"
+    },
+    {
       "type": "product-description",
       "title": "Quem comprou este produto, também comprou:",
       "enabled": true
@@ -29,9 +32,6 @@
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:",
       "show_loading": true
-    },
-    {
-      "type": "page-title"
     },
     {
       "type": "banners-grid"
