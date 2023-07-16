@@ -35,11 +35,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/passion.webp"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "banner-slider",
