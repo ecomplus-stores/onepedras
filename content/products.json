@@ -5,11 +5,6 @@
       "enabled": true
     },
     {
-      "type": "product-description",
-      "title": "Quem comprou este produto, também comprou:",
-      "enabled": true
-    },
-    {
       "type": "product-block",
       "enabled": true,
       "size_guide": {
@@ -20,6 +15,11 @@
     {
       "type": "related-products",
       "title": "Produtos relacionados"
+    },
+    {
+      "type": "product-description",
+      "title": "Quem comprou este produto, também comprou:",
+      "enabled": true
     },
     {
       "type": "product-specifications",
