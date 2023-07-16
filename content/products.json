@@ -41,18 +41,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/rect8589.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/rect89.png"
-        }
-      ]
+      "slides": []
     }
   ]
 }
