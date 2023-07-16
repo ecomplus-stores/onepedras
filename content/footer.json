@@ -6,12 +6,22 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "text": "Link de teste",
+        "url": "#"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {
+        "text": "Link teste 2",
+        "url": "#"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
