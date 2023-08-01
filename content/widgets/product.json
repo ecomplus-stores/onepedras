@@ -5,9 +5,9 @@
   "options": {
     "buyText": "",
     "buy": "",
-    "strHasQuantitySelector": "_",
-    "strHasPromotionTimer": "_",
-    "lowQuantityToWarn": 12,
+    "strHasQuantitySelector": "true",
+    "strHasPromotionTimer": " ",
+    "lowQuantityToWarn": 10,
     "maxVariationOptionsBtns": 6,
     "quoteInfo": ""
   }
