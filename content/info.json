@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil",
+    "title": "OPCIONAL FRETE"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele sem juros",
+    "title": "PARCELAMENTO (OPCIONAL)"
   },
   "exchange": {
     "show": true,
