@@ -3,24 +3,24 @@
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
-    "bootswatch": "litera",
-    "custom": "_"
+    "bootswatch": "simplex",
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/onepedras",
-  "logo": "/img/uploads/logo.png",
-  "name": "onepedras",
-  "short_name": "onepedras",
+  "logo": "/img/uploads/one-logo-2.png",
+  "name": "One Pedras Naturais",
+  "short_name": "One Pedras",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Ubuntu",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/icone-stp.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/icone-stp.png",
   "store_id": 51426,
   "description": "Transformamos pedras brutas em revestimentos incríveis. Nossa produção própria garante atenção e qualidade de cada peça, criando soluções únicas para o seu projeto. Levamos a beleza e a durabilidade das pedras naturais para todos os cantos do país.\n\nAtendemos clientes em todo o Brasil 🇧🇷",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/icone-stp.png"
 }
