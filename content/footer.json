@@ -27,7 +27,7 @@
     "title": "Contatos",
     "phone_wpp": true,
     "socials": true,
-    "email": true,
+    "email": false,
     "address": true
   },
   "stamps": [
@@ -44,10 +44,10 @@
     "elo": true,
     "hipercard": true,
     "mastercard": true,
-    "hiper": true,
+    "hiper": false,
     "mais": false,
     "pix": true,
-    "amex": false
+    "amex": true
   },
   "credits": "© 2023. One Pedras Naturais - Indústria, Comércio, Instalação e Limpeza. CNPJ: 25.423.118/0001-53. Todos os direitos reservados."
 }
