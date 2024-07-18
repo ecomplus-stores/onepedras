@@ -1,17 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "Pague em 10x sem juros ou com até 15% desconto avista!",
+    "text": "Pague em 3x sem juros ou com até 5% desconto avista!",
     "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "Sobre",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
@@ -22,7 +18,7 @@
     "random": 6,
     "full_width": true
   },
-  "centralized_logo": false,
+  "centralized_logo": true,
   "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
